@@ -1,4 +1,4 @@
-# themeIssues
+# dissertations based on themeIssues
 
 *OJS 3.1.2*
 
